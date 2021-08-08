@@ -10,7 +10,6 @@ olikraus / u8g2
 https://github.com/olikraus/u8g2
 
 TTGO T5 E-Paper Weather Station
-
 https://youtu.be/9JCBCEAGx30
 
 ![T5_ePaper_Weather_Station](https://github.com/ShotokuTech/T5_ePaper_Weather_Station/blob/main/t5%20e-paper%20weather%20station(3).png)
